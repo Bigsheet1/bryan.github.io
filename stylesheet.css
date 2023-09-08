@@ -1,0 +1,138 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+    height : 90px;
+    background-color :rgba(34, 49, 52, 0.9); ;
+    color : whitesmoke;
+}
+
+li {
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.copy-container  span {
+    color : yellow;
+}
+
+.header-logo {
+    font-size: 36px;
+    float : left;
+    padding : 20px 40px ;
+    letter-spacing: 5px;
+}
+
+.header-list li {
+    float : left ;
+    padding : 33px 20px ;
+}
+
+.copy-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.copy-container h1 {
+    font-size: 90px;
+    letter-spacing: 5px;
+    font-weight: bolder;
+}
+
+.copy-container h2 {
+    font-size: 40px ;
+    font-weight: lighter;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Foto {
+    height: 200px;
+    padding-bottom: 50px;
+}
+
+.tentang-saya {
+    height: 180px;
+    padding-bottom: 30px;
+    padding-top: 50px;
+    background-color: darkgrey;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tentang-saya h3 {
+    font-weight: bolder;
+}
+.tentang-saya p {
+    padding-right: 100px;
+    padding-left: 100px ;
+}
+
+.heading h1 {
+    text-align: center;
+}
+
+.container {
+    height: 250px;
+    padding-top : 80px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.container h1 {
+    text-align: center;
+}
+.flex-list {
+    display: flex;
+}
+
+.flex-list p {
+    text-align: center;
+    padding-bottom: 100px;
+}
+.flex-list li {
+    flex: auto;
+}
+
+.flex-list img {
+    padding-top : 25px;
+    height: 250px;
+    width: 250px;
+}
+
+.contact {
+    padding-top: 100px;
+    background-color: #dee7ec;
+}
+
+input, textarea {
+    width : 400px;
+    margin-top : 10px;
+    margin-bottom : 30px;
+    padding :20px;
+    font-size : 18px;
+    border :  1px solid #dee7ec;
+}
+
+.contact-submit {
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding : 20px;
+    font-size: 18px;
+}
+
+.footer {
+    background-color:rgba(34, 49, 52, 0.9); 
+    color : white;
+    height: 120px;
+    padding : 40px;
+}
+
+.footer-logo {
+    float : left;
+    font-size: 32px;
+    letter-spacing: 10px;
+}
+
+.footer-list {
+    float : right;
+}
