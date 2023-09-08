@@ -1,0 +1,24 @@
+@media all and (max-width: 1000px) {
+
+.tentang-saya {
+    height : 250px;
+    padding-bottom: 30px;
+    padding-top: 50px;
+    background-color: darkgrey;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+}
+
+@media all and (max-width: 670px) {
+    .tentang-saya {
+        height : 250px;
+        padding-bottom: 30px;
+        padding-top: 50px;
+        background-color: darkgrey;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+}
